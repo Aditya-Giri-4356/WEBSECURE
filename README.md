@@ -2,6 +2,8 @@
 
 WEBSECURE is a professional web application scanner that helps you check if your website is truly secure across SQL injection, XSS, authentication, misconfiguration, and policy gaps. Use it in the browser or install it as a Progressive Web App (PWA) for standalone workflows.
 
+**Live demo:** https://aditya-giri-4356.github.io/WEBSECURE/
+
 ## Features
 
 ### 🛡️ Vulnerability Detection
